@@ -1,0 +1,92 @@
+.i-phone13pro-max1153134-container {
+  min-height: 100vh;
+  display:flex; justify-content: center;
+}
+.i-phone13pro-max1153134-i-phone13pro-max1153134 {
+  width: 428px;
+  height: 926px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-image: linear-gradient(180deg, rgba(213, 166, 217, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+.i-phone13pro-max1153134-text {
+  top: 147px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 379px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: IM FELL French Canon;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13pro-max1153134-text01 {
+  color: rgba(0, 0, 0, 1);
+  width: 379px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.i-phone13pro-max1153134-text05 {
+  color: rgba(0, 0, 0, 1);
+  width: 379px;
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13pro-max1153134-image {
+  top: 10px;
+  left: 9px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.i-phone13pro-max1153134-text13 {
+  top: 107px;
+  color: rgba(0, 0, 0, 1);
+  right: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: IM FELL French Canon;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.i-phone13pro-max1153134-image1 {
+  top: 65px;
+  left: 21px;
+  width: 138px;
+  height: 115px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 40px;
+}
